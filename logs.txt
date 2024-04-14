@@ -1,0 +1,83 @@
+commit 62c0507888ccdb51a60178601a67218514eb6e94
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 18:01:08 2024 +0200
+
+    Add starter code
+
+commit 14bb83c15633515e7d3edd4e1ad1a73e33fee90e
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:55:09 2024 +0200
+
+    Add starter code
+
+commit eaf75d26908c00c43065d49c1d538adb55c00559
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:53:54 2024 +0200
+
+    Add starter code
+
+commit cf7a6adb95b38075fb8a2337ab8500ebddab7f3d
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:52:51 2024 +0200
+
+    Add starter code
+
+commit 2d5bbf2d38828c8a2ce0b726f1136fab99c739ab
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:50:28 2024 +0200
+
+    Delete
+
+commit 1c2ca389d59521c1d72b3521638248b12c84ec1f
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:49:53 2024 +0200
+
+    Delete
+
+commit bb9c9a5a67ae1d225cb3d890996ad5b42ddcd41c
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:49:13 2024 +0200
+
+    Delete
+
+commit f051a219e7e819e139cb5e88f3d78ee56ebd66c2
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 17:01:56 2024 +0200
+
+    Add starter code
+
+commit d6eebeee64ad88504b29c7037b34dc8cd921004a
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 16:57:59 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit c5b054eb1234f713d5eb63da2199ba31cfee197b
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 13:52:33 2024 +0200
+
+    Delete SILab1.java
+
+commit 074c71ccfa30cad15be1209d490c00c233e05f85
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 13:29:58 2024 +0200
+
+    Add java class
+
+commit 10e1165ee4ff3dd0cc22e427997b757a6cfe6f6a
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 13:28:15 2024 +0200
+
+    Add java class
+
+commit b5059cd388deb74b8fe368510065d05e7378c869
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sun Apr 14 13:23:25 2024 +0200
+
+    Add java class
+
+commit 20d6b050cfa9a300e7215cc2b4f514198d063da2
+Author: Marija <m.stolevska@yahoo.com>
+Date:   Sat Apr 13 17:45:48 2024 +0200
+
+    Initial commit
